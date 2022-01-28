@@ -1,0 +1,36 @@
+@import "null.css";
+
+.title {
+	color: red;
+}
+.text {
+	color: green;
+}
+.sub-title {
+	color: hotpink;
+}
+.wrapper > p {
+	color: lightcoral;
+}
+.text.blue {
+	color: blue;
+}
+.info {
+	color: coral;
+}
+#yellow {
+	color: yellow;
+}
+ul li {
+	color: tomato;
+}
+
+.sub-list li {
+	color: green;
+}
+div.inform {
+	color: indigo;
+}
+div p {
+	color: indianred;
+}
